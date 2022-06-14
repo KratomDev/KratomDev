@@ -3,14 +3,6 @@
 [![Kratom]](https://github.com/KratomDev)
 
 
-## I'm a Software Developer!!
-
-- 👨‍💻 I'm currently working on: Tbh idk
-- 👴 I'm currently 18 years old
-- 🥅 2020/2021 Goals: I wan't to learn more about Lua, and hopefully become as good as Aspect.Dev
-- ⚡ Fun fact: I ❤️ to learn new things, as long as it's not about Aspect.Dev
-
-
 ### Connect with me:
 
 [<img align="left" alt="Kratom | Discord" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/discord.svg" />][discord]
